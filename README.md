@@ -1,5 +1,4 @@
-# Task_2
-Snaps used
+# Snaps used
 •	File Reader – to access “leads.csv”
 •	CSV Parse – to parse  “leads.csv”
 •	File Reader1 – to access “CAIncomeByZip.csv”
